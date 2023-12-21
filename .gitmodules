@@ -6,4 +6,4 @@
 	url = git@github.com:google/googletest.git
 [submodule "tests/rapidcheck"]
 	path = tests/rapidcheck
-	url = git@github.com:emil-e/rapidcheck.git
+	url = git@github.com:huizhanyi/rapidcheck.git
